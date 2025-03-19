@@ -400,4 +400,4 @@ PythonClient/docs/_build
 /site/
 /promo/
 /Unreal/Environments/BlocksComp/
-docker/LinuxBlocks/*
+docker/LinuxBlocks/*rpclib/
